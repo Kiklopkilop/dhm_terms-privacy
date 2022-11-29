@@ -94,3 +94,190 @@ U svrhu marketinga Davatelj usluge povremeno koristi alat “Google AdWords” t
 Davatelj usluge zadržava pravo naknadne izmjene i/ili dopune ove Izjave o privatnosti o čemu je dužan obavijestiti Korisnika emailom, putem obavijesti pri korištenju Aplikacije ili na drugi prikladan način.
 
 Ova Izjava o privatnosti i zaštiti podataka primjenjuje se od 1.11. 2022. godine.
+
+<br>
+<br>
+
+1.11.2022.
+
+Opći Uvjeti Korištenja
+----------------------
+
+**ČLANAK 1. - UVODNE ODREDBE**
+
+Ovim Općim uvjetima DHM, obrt za računalno programiranje (dalje u tekstu: Opći uvjeti) utvrđuju se sadržaj i uvjeti korištenja mobilne aplikacije Digital HACCP Manager (dalje u tekstu: Aplikacija) te prava i obveze Korisnika Aplikacije.
+
+Prijavom na aplikaciji koristeći jedno od korisničkih imena i lozinki koje mu je učinio dostupnim DHM obrt za računalno programiranje Korisnik prihvaća uvjete korištenja usluga utvrđene ovim Općim uvjetima i potvrđuje da su mu isti bili poznati i dostupni u pregovorima oko sklapanja ugovora te se takav početak korištenja Aplikacije ima smatrati potvrdom sklopljenog ugovora.
+
+Ovi Opći uvjeti sastavni su dio ugovora između DHM, obrt za računalno programiranje i Korisnika, a objavljeni su na internetskoj stranici www.dhm.hr te su vidljivi Korisniku unutar aplikacije prije i nakon prijave korisničkim imenom i lozinkom.
+
+<br>
+
+**ČLANAK 2. - POJMOVI I DEFINICIJE**
+
+Pružatelj usluge je DHM, obrt za računalno programiranje sa sjedištem u Karlovcu, Frane Supila 21, 47000 Karlovac OIB: 25647141752
+
+Korisnik je pravna ili fizička osoba s kojom pružatelj usluge sklapa ugovor za korištenje Aplikacije putem sredstava daljinske komunikacije, sukladno važećim propisima.
+
+Odgovorna osoba je ovlaštena osoba Korisnika koja se registrirala za korištenje Aplikacije i koja je registracijom prihvatila Opće uvjete.
+
+Aplikacija je usklađena s odredbama važećih pozitivnih propisa Republike Hrvatske razvijena od strane pružatelja usluge.
+
+Ograničenje korištenja Aplikacije je onemogućavanje Korisniku korištenja određene usluge, koje će se primijeniti kada se ispune uvjeti za privremeno ili trajno isključenje sukladno važećim propisima, odnosno ovim Općim uvjetima.
+
+Baza podataka je skup svih podataka unesenih kroz Aplikaciju spremljen na odgovarajući način prilagođen potrebama Aplikacije.
+
+<br>
+
+**ČLANAK 3. - TEHNIČKI UVJETI ZA KORIŠTENJE APLIKACIJE**
+
+Za korištenje Aplikacije Korisnik o svom trošku i na vlastitu odgovornost mora osigurati sljedeće tehničke uvjete:
+
+(1) Pameni telefon sa Android sustavom ili drugi uređaj s mogućnošću pokretanja android aplikacija
+(2) pristup internetu
+
+<br>
+
+**ČLANAK 4. - POSTUPAK REGISTRACIJE I SKLAPANJE UGOVORA**
+
+Prijava se vrši na nakon što skinete i instalirate aplikaciju i prihvaćanjem ovih Općih uvjeta, na sljedeći način:
+
+(1) Korisnik se prijavljuje putem aplikacije unošenjem korisničkog imena i lozinke.
+(2) Da bi prva prijava pri korištenju Aplikacije bila moguća, Korisnik mora potvrditi da su mu predočeni ovi Opći uvjeti i sa istima se mora složiti.
+(3) Prvom prijavom na ovaj način, Korisnik daje suglasnost na uporabu sredstva daljinske komunikacije u svrhu sklapanja ugovora te je upoznat i prihvaća da se ugovor između pružatelja usluge i Korisnika smatra sklopljenim prvom prijavom putem navedenog postupka.
+
+<br>
+
+**ČLANAK 5. - PLAĆANJE**
+
+Istekom probnog korištenja ili ranije, i nastavkom korištenja Aplikacije od strane Korisnika, Pružatelj usluge je ovlašten ispostaviti račun Korisniku.
+
+Korisnik je dužan uplatiti ukupni iznos iskazan na računu u roku naznačenom na računu, a koji neće biti kraći od 8 dana.
+
+U tijeku predviđenog roka za uplatu Korisnik može koristiti Aplikaciju, a ukoliko Korisnik ne izvrši uplatu u predviđenom roku, pružatelj usluge može ograničiti korištenje Aplikacije ili raskinuti ugovor i deaktivirati korisnički račun.
+
+Po uredno zaprimljenoj uplati Korisniku se može ponovno aktivirati korištenje Aplikacije.
+
+<br>
+
+**ČLANAK 6. - TRAJANJE UGOVORA, CIJENE I UVJETI PLAĆANJA**
+
+Korisnik je za korištenje Aplikacije obvezan plaćati pružatelju usluge naknadu u visini i na način utvrđen kao niže.
+
+Ugovor za korištenje Aplikacije sklapa se na određeno vrijeme i to na period od 12 (slovima: dvanaest) mjeseci. Početak i istek ugovornog odnosa bit će naznačen na računu izdanom od strane pružatelja usluge. Istekom toga perioda, ugovor se ne obnavlja automatski niti je produljeno djelovanje pravnih odnosa iz istog moguće nakon isteka ugovorenog perioda.
+
+Naknada za korištenje Aplikacije u periodu od 12 mjeseci je naznačena u nacrtu računa unutar same Aplikacije.
+
+Pružatelj usluge će prije isteka ugovorenog roka korištenja Aplikacije obavijestiti Korisnika o isteku, a Korisnik je dužan sam odabrati sljedeću Aplikaciju ili odgovarajuću uslugu, kako bi se po podmirenju naknade ili nastavilo korištenje dotadašnje Aplikacije u sljedećem razdoblju korištenja po novim uvjetima ili ugovorilo korištenje neke druge usluge ili Aplikacije.
+
+<br>
+
+**ČLANAK 7. - PROBNO KORIŠTENJE, PRIVREMENO OGRANIČENJE I PROMJENA NAČINA KORIŠTENJA APLIKACIJE**
+
+Pružatelj usluge je ovlašten Korisniku omogućiti probno korištenje Aplikacije do najviše 30 dana. Ovo ovlaštenje pružatelj usluge može opozvati u svakom trenutku, bez odobrenja Korisnika i bez odgovornosti za eventualnu štetu koja bi Korisniku mogla nastati.
+
+Korisnik je unutar roka od 30 dana (period probnog korištenja) ovlašten odustati od korištenja Aplikacije bez naknade pružatelju usluge (o čemu je dužan obavijestiti pružatelja usluge), a ukoliko nastavi koristiti Aplikaciju istekom probnog perioda ili ranije potvrdi nacrt računa dostupan u samoj Aplikaciji, period probnog korištenja uračunava se u ugovoreni period korištenja.
+
+Ako se definirana naknada za korištenje Aplikacije ne podmiri u roku, usluga može postati privremeno nedostupna ili suspendirana, bez obzira na posljedice koje može imati Korisnik.
+
+Pružatelj usluge može uvesti, promijeniti ili ukinuti Aplikaciju, uz prethodnu obavijest Korisniku, sukladno važećim propisima i ugovornim odredbama. U slučaju promjene Aplikacije, odnosno uvjeta korištenja Aplikacije i dodatnih opcija, Korisnik nastavlja koristiti Aplikaciju prema prethodno definiranom korištenju do isteka roka na koji je ugovoreno korištenje.
+
+<br>
+
+**ČLANAK 8. - BAZA PODATAKA I POVJERLJIVOST INFORMACIJA**
+
+Korisnik Aplikacije je vlasnik baze podataka.
+
+Podaci se sinkroniziraju isključivo kada je dostupan pristup internetu, u slučaju nedostupnosti interneta pružatelj usluge ne može omogućiti sinkronizaciju, odnosno pohranu podataka.
+
+Korisnik je dužan omogućiti stalno dostupan internet.
+
+U slučaju prestanka ugovora o korištenju Aplikacije pružatelj usluge će omogućiti Korisniku pristup podacima unutar korisničkog računa u narednom periodu od 6 (slovima: šest) mjeseci, prilikom kojeg će Korisnik moći pristupati podacima, ali bez mogućnosti unošenja podataka i korištenja Aplikacije na drugi način.
+
+Nakon isteka roka od 6 mjeseci od prestanka ugovora o korištenju aplikacije, podaci će biti brisani iz baze podataka, s time da se podaci na pisani zahtjev Korisnika mogu brisati i prije isteka navedenog roka.
+
+Nakon isteka roka unutar kojega Korisnik može postaviti zahtjev za dostavom baze podataka, pružatelj usluge nije dužan predmetne podatke čuvati, niti učiniti dostupnim Korisniku.
+
+Korisnik je suglasan da pružatelj usluge može prikupljene podatke koji se odnose na njega, a koji se unesu pri korištenju Aplikacije te ostale podatke potrebne za ispunjenje ugovora iznositi izvan Republike Hrvatske, u zemlje u kojima se nalaze podatkovni centri na kojima će biti instalirana Aplikacija.
+
+Podatke o radnicima koje Korisnik prikuplja i unosi u Aplikaciju pružatelj usluge ne smije davati na korištenje bilo kome, niti ih smije obrađivati za bilo koju drugu svrhu, osim u svrhu ispunjenja obveza preuzetih ugovorom.
+
+Podaci uneseni od strane Korisnika u Aplikaciju i sadržaj koji Korisnik obrađuje korištenjem Aplikacije, predstavljaju povjerljive podatke Korisnika. Pružatelj usluge neće ostvarivati pristup, koristiti, mijenjati niti na bilo koji drugi način obrađivati u vlastite svrhe podatke koje Korisnik unosi u Aplikaciju pri korištenju usluge i koji se obrađuju od strane Korisnika korištenjem Aplikacije. Pružatelj usluge je dužan čuvati kao povjerljive sve podatke o kojima bi, radi ispunjavanja svojih obveza prema Korisniku sukladno ovim Općim uvjetima, mogao dobiti saznanje te će osiguravati odgovarajuće mjere zaštite podataka.
+
+Pružatelj usluge ili Korisnik ne smiju otkrivati povjerljive informacije koje se odnose ili su vezane uz ugovor o korištenju Aplikacije neovlaštenim osobama ili bilo kojoj trećoj strane bez prethodne pisane suglasnosti.
+
+Pružatelj usluge dužan je prikupljene podatke na odgovarajući način zaštititi od slučajnog gubitka ili uništenja, nedopuštenog pristupa, nedopuštene promjene, nedopuštenog objavljivanja i svake druge zlouporabe.
+
+<br>
+
+**ČLANAK 9. - ODGOVORNOST ZA KORIŠTENJE APLIKACIJE**
+
+Korisnik se obvezuje koristiti Aplikaciju sukladno tehnološkim postavkama utvrđenima Općim uvjetima.
+
+Korisnik je odgovoran za točnost podataka unesenih prilikom korištenja Aplikacije te Aplikaciju koristi samo kao podlogu za ispravan unos i vođenje evidencija. Korisnik vodi brigu o sukladnosti vođenja evidencija prema primjenjivim propisima.
+
+Ukoliko Korisnik uoči bilo kakve nepravilnosti u radu Aplikacije ili nesuglasje s važećim propisima, dužan je u najkraćem mogućem roku obavijestiti pružatelja usluge, kako bi se uočene pogreške ispravile.
+
+Korisnik se obvezuje da će koristiti Aplikaciju isključivo za vođenje HACCP evidencija te da korištenje iste neće učiniti dostupnim trećim osobama.
+
+Pružatelj usluge ne odgovara Korisniku za štetu nastalu zbog:
+(1) nemogućnosti korištenja Aplikacije uslijed neodgovarajućeg postupanja Korisnika,
+(2) nedostupnosti Aplikacije nastale kao posljedica tehničkih problema ili više sile,
+(3) neadekvatnosti usluge za potrebe Korisnika.
+
+Korisniku se pruža korištenje Aplikacije u konačnom obliku te se isključuje bilo kakvo jamstvo glede bilo kakvih nedostataka Aplikacije. Iako pružatelj usluge radi konstantno testiranje i održavanje Aplikacije, ne može jamčiti da prilikom korištenja neće doći do pogrešaka u radu Aplikacije te da tom prilikom neće doći do eventualnih kvarova.
+
+U svakom slučaju pružatelj usluge će poduzeti sve korake da kvar otkloni u najkraćem mogućem roku.
+
+Pružatelj usluge ne odgovara Korisniku za štetu, ukoliko unatoč mjerama zaštite dođe do gubitka ili uništenja podataka, nedopuštenog pristupa, nedopuštene promjene, nedopuštenog objavljivanja ili bilo koje druge zlouporabe, a posebno kada su navedene okolnosti uzrokovane višom silom, kvarom opreme, pogrešnim rukovanjem, utjecajem drugih licenciranih i nelicenciranih računalnih programa, virusa i ostalih štetnih utjecaja.
+
+<br>
+
+**ČLANAK 10. - INTELEKTUALNO VLASNIŠTVO**
+
+Cjelokupno intelektualno vlasništvo (program, struktura, edukacija, web podrška, slike, fotografije, logotipi i dr.) isključivo je vlasništvo pružatelja usluge.
+
+Korisnik Aplikacije nema pravo prodati, ustupiti, pokloniti niti na bilo koji drugi način izvlastiti cjelinu ili bilo koji dio intelektualnog vlasništva pružatelja usluge.
+
+<br>
+
+**ČLANAK 11. - POSEBNE OBVEZE PRUŽATELJA USLUGE**
+
+Pružatelj usluge posebno se obvezuje:
+
+(1) omogućiti podroban pregled i ispis svih podataka koji se unose u Aplikaciju,
+(2) omogućiti svakodobni pregled Općih uvjeta, (3) čuvati podatke Korisnika u skladu s važećim propisima i međunarodnim standardima i preporukama, (4) pružiti besplatnu podršku prvenstveno putem emaila: info@dhm.hr, ili u slučaju nemogućnosti podrške putem emaila, putem telefona DHM, obrt za računalno programiranje navedenog na internetskim stranicama Aplikacije, (5) prigodom pristupa Aplikaciji, osigurati korisnički račun od neovlaštenog korištenja, na način da jedino Korisnik usluge ima pristup preko svog korisničkog računa, (6) osiguravati kontinuiranu funkcionalnost Aplikacije, (7) pružiti pomoć pri rješavanju problema pri djelovanju Aplikacije – pomoć će primarno biti pružana putem emaila, (8) osigurati tekuće isporuke poboljšanja i potrebnih popravaka programskog koda Aplikacije u slučaju ustanovljenih nepravilnosti rada instalirane Aplikacije, (9) spriječiti gubitak podataka svakodnevnom izradom kopija baze podataka (radnim danom) te sukladno tome osigurati povrat podataka za najkasnije 48 unatrag od podneva tekućeg dana u mjesecu, (10) osigurati promjenu Aplikacije prema eventualno izmijenjenim propisima, (11) odgovarati do vrijednosti godišnje naknade za korištenje Korisniku ukoliko je nadležno tijelo pravomoćnom odlukom utvrdilo nesukladnost Aplikacije s propisima Republike Hrvatske.
+
+<br>
+
+**ČLANAK 12. - FUNKCIONALNOST I OSNOVNE ZNAČAJKE APLIKACIJE**
+
+Aplikacija služi za digitalno vođenje svih dostupnih HACCP evidencija definirane od strane Zakona o hrani (»Narodne novine«, broj 81/2013 i 14/2014). Svi podaci uneseni kroz aplikaciju se čuvaju na serveru pružatelja usluge i jednom godišnje se dostavljaju korisniku na vlastito čuvanje.
+
+<br>
+
+**ČLANAK 13. - OTKAZ I RASKID**
+
+Ugovor o korištenju aplikacije prestaje istekom ugovorenog perioda.
+
+Ako se Korisnik ne pridržava Općih uvjeta ili ako pružatelju usluge po dospijeću ne plati naknadu za korištenje Aplikacije, pružatelj zadržava pravo onemogućiti Korisniku korištenje Aplikacije bez prethodne najave, s učinkom trenutnog raskida ugovora na štetu Korisnika. Po naknadnom plaćanju pružatelj usluge može Korisniku omogućiti ponovno korištenje Aplikacije.
+
+U slučaju raskida ugovora, naknade za korištenje koje su prethodno plaćene, pružatelj usluge nema obavezu vratiti.
+
+<br>
+
+**ČLANAK 14. - SUGLASNOST S IZMJENAMA OPĆIH UVJETA**
+
+Pružatelj usluge zadržava pravo naknadne izmjene i/ili dopune Općih uvjeta o čemu je dužan obavijestiti Korisnika emailom, putem obavijesti pri korištenju Aplikacije ili na drugi prikladan način.
+
+Smatra se da je Korisnik pristao na izmjene i/ili dopune Općih uvjeta ako u roku od 8 dana od kada je obaviješten ne otkaže korištenje Aplikacije.
+
+<br>
+
+**ČLANAK 15. - RJEŠAVANJE SPOROVA**
+
+Pružatelj usluge i Korisnik su suglasni da će mirno riješiti sve sporove proizašle iz ugovora, a ako to nije moguće, nadležan je stvarno nadležni sud u Varaždinu.
+
+Ovi Opći uvjeti poslovanja primjenjuju se od 1.11.2022. godine.
+
+<br>
